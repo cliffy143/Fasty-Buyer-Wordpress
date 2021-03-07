@@ -1,0 +1,66 @@
+.mt-4, .my-4 {
+    margin-top: 3rem!important;
+}
+.woocommerce div.product div.images.woocommerce-product-gallery {
+    opacity: 1 !important;
+}
+.woocommerce .cart .button, .woocommerce .cart input.button {
+    width: auto !important;
+}
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    width: auto !important;
+    margin-bottom: 30px !important;
+    line-height: 24px !important;
+}
+.woocommerce table.shop_table td img
+{
+    max-width:90px !important;
+}
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1 {
+    float: left;
+    width: 70% !important;
+    max-width: 70% !important;
+}
+.woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {
+    float: left;
+    width: 30% !important;
+    max-width: 30% !important;
+}
+.woocommerce form .form-row label {
+    width: 100% !important;
+}
+.woocommerce form .form-row span.woocommerce-input-wrapper
+ {
+    float: left;
+    width: 100%;
+}
+.woocommerce ul.products li.product a {
+    width: auto !important;
+    height: auto !important;
+}
+@media(max-width:767px)
+{
+.service_tabe_menu li {
+    margin-bottom: 20px;
+}    
+.title h2 {
+    font-size: 28px;
+}
+.footer-pad {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.copy p
+{
+ font-size:12px;    
+}
+#service {
+    padding: 50px 0 20px;
+}
+#service .title {
+    padding-bottom: 35px;
+}
+.fixed-top .img-responsive {
+    top: -17px;
+}
+}
